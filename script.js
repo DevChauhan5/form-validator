@@ -5,3 +5,4 @@ const password = document.getElementById("password")
 const cPassword = document.getElementById("c-password")
 
 //show error messges
+function showError(){}
